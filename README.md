@@ -25,7 +25,9 @@ class-activities
 
 ## How To Use
 
-1. Install [node js](https://nodejs.org/en/) (if not already installed)
-2. Clone repo & install dependencies
-3. Paste or Move the Daily activities into the root of this directory.
+1. Install [node js](https://nodejs.org/en/) (if not already installed).
+2. Clone repo & install dependencies.
+3. Paste or Move the Daily activities into the 'activities' directory.
+    * There are some example activities that can be pasted into the activities folder.
 4. run command ```node zipper.js```
+5. All zipped files will be in the 'zipped-files' directory.
