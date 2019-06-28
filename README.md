@@ -27,6 +27,8 @@ class-activities
 
 1. Install [node js](https://nodejs.org/en/) (if not already installed).
 2. Clone repo & install dependencies.
+    * in terminal type ```git clone <remote URL>```
+    * navigate into repo and type ```npm install```
 3. Paste or Move the Daily activities into the 'activities' directory.
     * There are some example activities that can be pasted into the activities folder.
 4. run command ```node zipper.js```
